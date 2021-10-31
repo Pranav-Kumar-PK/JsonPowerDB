@@ -11,3 +11,21 @@
 * JsonPowerDB has a **ready to use API for Json document DB**.
 * JPDB supports and advocates for true **serverless and pluggable API development**.
 * It has **high performance** which reduces the time taken for development and in-turn **reduces development cost**.
+## CRUD Operations:
+* ### Create Operations:
+
+  ![create](/Screenshots/Create2.png)
+
+* ### Read Operations: 
+
+  ![read](/Screenshots/Read2.png)
+ 
+* ### Update Operations: 
+
+  ![update](/Screenshots/Update1.png)
+
+* ### Delete Operations: 
+
+  ![delete](/Screenshots/Delete.png)
+  
+ 
