@@ -3,6 +3,12 @@
 ## Table of Content:
 1. [About JsonPowerDB(JPDB)](#about-jsonpowerdb)
 2. [Benefits of JsonPowerDB](#benefits-of-jsonpowerdb)
+3. [CRUD Operations](#crud-operations)
+   1. [Create](#create-operations)
+   2. [Read](#read-operations)
+   3. [Update](#update-operations)
+   4. [Delete](#delete-operations)
+  
 ## About JsonPowerDB:
 * JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 ## Benefits of JsonPowerDB:
